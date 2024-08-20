@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tram Phan</h1>
 <h3 align="center">A passionate data science student from Vietnam.</h3>
+<img align="center" alt="Coding" width = 400 src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramphan748&label=Profile%20views&color=0e75b6&style=flat" alt="tramphan748" /> </p>
 
