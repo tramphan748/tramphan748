@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramphan748&label=Profile%20views&color=0e75b6&style=flat" alt="tramphan748" /> </p>
 
-- 🌱 I’m currently learning **Deep learning, Big Data, Docker**
-
-- 👨‍💻 All of my projects are available at [https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8](https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8)
+- 🌱 I’m currently learning **Deep learning, Excel, Docker**
 
 - 💬 Ask me about **Python, SQL, Tableau, Machine learning, statistics**
 
@@ -13,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tramhongphan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tramhongphan/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hongtramphann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hongtramphann" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/htram.p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/htram.p/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tramhongphan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tramhongphan" height="30" width="40" /></a>
+<a href="https://fb.com/hongtramphann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hongtramphann" height="30" width="40" /></a>
+<a href="https://instagram.com/htram.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="htram.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
