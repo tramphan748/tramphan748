@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Deep learning, Big Data, Docker**
 
+- 👨‍💻 All of my projects are available at [https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8](https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8)
+
 - 💬 Ask me about **Python, SQL, Tableau, Machine learning, statistics**
 
 - 📫 How to reach me **tramphan748@gmail.com**
-
-- 📄 Know about my experiences [https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8?pvs=4](https://www.notion.so/tramhongphan/Tram-Phan-s-Data-Analyst-Portfolio-f9da5f60e74644d88a76c2fe0e211fc8?pvs=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tramphan748&show_icons=true&locale=en&layout=compact" alt="tramphan748" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tramphan748&show_icons=true&locale=en" alt="tramphan748" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tramphan748&" alt="tramphan748" /></p>
