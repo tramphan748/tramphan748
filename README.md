@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramphan748&label=Profile%20views&color=0e75b6&style=flat" alt="tramphan748" /> </p>
 
-- 🌱 I’m currently learning **Deep learning, Data Analytics and Data Visualization**
+- 🌱 I’m currently learning **Cloud, AWS, Generative AI**
 
-- 💬 Ask me about **Python, SQL, Tableau, Machine learning, and Statistics**
+- 💬 Ask me about **Python, SQL, Tableau, Power BI, Machine learning, Deep learning, LLMs and Statistics**
 
 - 📫 How to reach me **tramphan748@gmail.com**
 
